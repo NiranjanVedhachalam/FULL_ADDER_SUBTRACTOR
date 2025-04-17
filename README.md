@@ -4,8 +4,6 @@
 
 ### EX NO: 4 - FULL ADDER AND SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
-
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -52,7 +50,7 @@ FULL SUBTRACTOR
 
 ![full-subtractor truth table](https://github.com/user-attachments/assets/e9ba12e8-331d-4bd1-a543-9e51458fbea7)
 
-**Procedure**
+**PROCEDURE**
 
 ### 1. Open Quartus Software
 Launch **Quartus Prime** on your system.
